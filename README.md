@@ -28,7 +28,7 @@ To create your own voting committee:
 
 3. Create a pull request and wait for approval from the UMA.rocks team.
 
-4. After your pull request is merged, all members from your voting committee will be invited to become contributor to this Github repository. You will need to accept this invite on Github.
+4. After your pull request is merged, all members from your voting committee will be invited to become contributor to this Github repository. All of you will need to accept this invite on Github.
 
 5. In the newly created branch `voting-committee-<your-voting-committee-ID>`, you can edit the file `README.md` to present your committee members and explain why stakers should delegate to your committee.
 

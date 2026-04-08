@@ -1,6 +1,6 @@
 # UMA.rocks voting committees
 
-UMA.rocks is using Github as an offline multisig for voting committees to reach consensus on dispute answers for every voting round.
+UMA.rocks is using Github as an offline multisig for voting committees to reach consensus on dispute answers at every voting round.
 
 ## How does it work?
 

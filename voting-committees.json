@@ -1,0 +1,28 @@
+[
+    {
+        "name": "UMA.rocks main voting committee",
+        "id": 1,
+        "members": [
+            {
+                "github_id": "jessioc",
+                "ethereum_address": "0x"
+            },
+            {
+                "github_id": "okayway1",
+                "ethereum_address": "0x"
+            },
+            {
+                "github_id": "scoutpol",
+                "ethereum_address": "0x"
+            },
+            {
+                "github_id": "cruzpoly",
+                "ethereum_address": "0x"
+            },
+            {
+                "github_id": "lancelot-c",
+                "ethereum_address": "0x"
+            }
+        ]
+    }
+]

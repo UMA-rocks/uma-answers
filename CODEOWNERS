@@ -1,0 +1,27 @@
+# Owners of the files in this branch
+
+
+
+# ⬇️ COMMENT BELOW FOR A VOTING COMMITTEE BRANCH
+
+# For all files that do not match any voting committee
+* @lancelot-c
+
+# UMA.rocks main voting committee
+/voting-rounds/*/1.json @jessioc @okayway1 @scoutpol @cruzpoly @lancelot-c
+
+# Other voting committees
+# /voting-rounds/*/2.json @abc @def @ghi @jkl @mno
+# /voting-rounds/*/3.json @pqr @stw @xyz
+# /voting-rounds/*/4.json @foo @auto-approve-1 @auto-approve-2
+
+# ⬆️
+
+
+
+# ⬇️ UNCOMMENT BELOW FOR A VOTING COMMITTEE BRANCH
+
+# For voting committee X with N members
+# * @voting-committee-X-member-1 [...] @voting-committee-X-member-N
+
+# ⬆️

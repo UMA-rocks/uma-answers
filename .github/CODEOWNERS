@@ -1,0 +1,5 @@
+# Owner of the CODEOWNERS file in root directory
+
+# See https://docs.github.com/fr/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners#codeowners-and-branch-protection
+
+/.github/ @lancelot-c

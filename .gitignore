@@ -1,5 +1,4 @@
-# Uncomment the line below for all branches
+# Uncomment the 3 lines below for all voting commitee branches
 # .gitignore
-
-# Uncomment the line below for all voting commitee branches. Indeed, these branches need to have there own code owners to be protected as well.
 # CODEOWNERS
+# README.md

@@ -26,7 +26,7 @@ To create your own voting committee:
 
 2. Edit the file `voting-committees.json` by adding your committee details to the list. You will need to choose a name for your committee and know the Github ID and Ethereum address for all members of your committee. Ethereum addresses will only be used to distribute the voting committee earnings at the beginning of each month. The `id` value should be a +1 increment of the previous committee id.
 
-3. Create a pull request and wait for approval from the UMA.rocks team.
+3. Create a pull request and wait for the approval of the UMA.rocks team.
 
 4. After your pull request is merged, all members from your voting committee will be invited to become contributor to this Github repository. All of you will need to accept this invite on Github.
 

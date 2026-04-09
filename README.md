@@ -10,7 +10,7 @@ A voting committee can have from 1 to 5 members and a majority of the members ne
 
 At the beginning of every voting round, a pull request from voting committee branches to the main branch is automatically created. Voting committees have until 11AM UTC to reach consensus on dispute answers and merge the pull request.
 
-At 12PM UTC, the merged answers for each voting committee will be committed for each delegator who subscribe to that committee.
+At 12PM UTC, the merged answers for each voting committee will be committed for all delegators who subscribed to that committee.
 
 ## Why should UMA.rocks have multiple voting committees?
 

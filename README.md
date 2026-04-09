@@ -24,16 +24,11 @@ To create your own voting committee:
 
 1. Fork the `main` branch of this repository on your Github
 
-2. Edit the file `voting-committees.json` by adding your committee details to the list. You will need to choose a name for your committee and know the Github ID and Ethereum address for all members of your committee. Ethereum addresses will only be used to distribute the voting committee earnings at the beginning of each month. The `id` value should be a +1 increment of the previous committee id.
+2. Edit the file `voting-committees.json` by adding your committee details to the list. You will need to choose a name for your committee and know the Github ID and Ethereum address for all members of your committee. Ethereum addresses will only be used to distribute the voting committee earnings at the beginning of each month. The `id` value should be a +1 increment of the previous committee id. In the same pull request, create the file `presentations/{your-voting-committee-id}.md` to present your committee members and explain why stakers should delegate to your committee. This will serve as a landing page for your committee.
 
 3. Create a pull request and wait for the approval of the UMA.rocks team.
 
 4. After your pull request is merged, all members from your voting committee will be invited to become contributor to this Github repository. All of you will need to accept this invite on Github.
-
-5. In the newly created branch `voting-committee-<your-voting-committee-ID>`, edit the file `README.md` to present your committee members and explain why stakers should delegate to your committee.
-
-
-
 
 
 

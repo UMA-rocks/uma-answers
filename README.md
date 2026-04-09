@@ -1,31 +1,40 @@
-## UMA.rocks main voting committee
+# UMA.rocks voting committees
 
-<table><tr>
-  <td align="center"><a href="https://github.com/jessioc"><img alt="jessioc" src="https://cdn.discordapp.com/avatars/634236418310275072/f9a78a27cdb2a1fc8027a5b8f07cbc1f.webp?size=300" width="117" /><br />jessioc</a>
-    <br /><br /><b>Known for:</b><br />Member of the <a href="https://docs.uma.xyz/verification-guide/verification-system">UMA Verification Team</a>
-    <br /><br /><b>Discord:</b><br />@jessicaonlychild
-  </td>
+UMA.rocks is using Github as an offline multisig for voting committees to reach consensus on dispute answers at every voting round.
 
-  <td align="center"><a href="https://github.com/okayway1"><img alt="okayway1" src="https://avatars.githubusercontent.com/u/246659321?v=4" width="117" /><br />okayway1</a>
-    <br /><br /><b>Known for:</b><br />Long-term UMA voter
-    <br /><br /><b>Discord:</b><br />@okayway1
-  </td>
+## How does it work?
 
-  <td align="center"><a href="https://github.com/scoutpol"><img width="117" height="117" alt="scout" src="https://github.com/user-attachments/assets/c9e7e16c-d7c4-4b80-abcf-e0d1d65c4f0d" />
-<br />scout</a>
-    <br /><br /><b>Known for:</b><br />Very active Polymarket & UMA community member
-    <br /><br /><b>Discord:</b><br />@scout7438
-  </td>
+Each voting committee has its own branch on this repository.
 
-  <td align="center"><a href="https://github.com/cruzpoly"><img width="117" height="117" alt="cruz" src="https://github.com/user-attachments/assets/917c82b3-4b91-4e5c-9323-3db8f63821fa" />
-<br />cruz</a>
-    <br /><br /><b>Known for:</b><br />Lots of experience in sports markets
-    <br /><br /><b>Discord:</b><br />@exquisite_wolf_79651
-  </td>
-  
-  <td align="center"><a href="https://github.com/lancelot-c"><img alt="lancelot-c" src="https://avatars.githubusercontent.com/u/1041338?v=4" width="117" /><br />lancelot-c</a>
-    <br /><br /><b>Known for:</b><br />Founder of <a href="https://www.uma.rocks/">UMA.rocks</a>
-    <br /><br /><b>Discord:</b><br />@frigodor
-  </td>
-  
-</tr></table>
+A voting committee can have from 1 to 5 members and a majority of the members need to approve each pull request before it can be merged to the main branch.
+
+At the beginning of every voting round, a pull request from voting committee branches to the main branch is automatically created. Voting committees have until 11AM UTC to reach consensus on dispute answers and merge the pull request.
+
+At 12PM UTC, the merged answers for each voting committee will be committed for all delegators who subscribed to that committee.
+
+## Why should UMA.rocks have multiple voting committees?
+
+Having multiple independent voting committees contribute to the decentralisation of the UMA oracle by making it harder to corrupt it.
+
+There is also a financial incentive to create and run an efficient committee. For every delegator subscribing to a committee, 25% of the delegator fees paid to UMA.rocks will be redistributed to the committee and shared equally between all committee members. It is the equivalent of "builder codes" that Polymarket is also using to pay anyone who is bringing them traffic.
+
+## How to create a voting committee?
+
+To create your own voting committee:
+
+1. Fork the `main` branch of this repository on your Github
+
+2. Edit the file `voting-committees.json` by adding your committee details to the list. You will need to choose a name for your committee and know the Github ID and Ethereum address for all members of your committee. Ethereum addresses will only be used to distribute the voting committee earnings at the beginning of each month. The `id` value should be a +1 increment of the previous committee id.
+
+3. Create a pull request and wait for the approval of the UMA.rocks team.
+
+4. After your pull request is merged, all members from your voting committee will be invited to become contributor to this Github repository. All of you will need to accept this invite on Github.
+
+5. In the newly created branch `voting-committee-<your-voting-committee-ID>`, edit the file `README.md` to present your committee members and explain why stakers should delegate to your committee.
+
+
+
+
+
+
+

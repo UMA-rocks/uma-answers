@@ -16,7 +16,7 @@ At 12PM UTC, the merged answers for each voting committee will be committed for 
 
 Having multiple independent voting committees contributes to the decentralisation of the UMA oracle by making it harder to corrupt it.
 
-There is also a financial incentive to create and run an efficient committee. For every delegator subscribing to a committee, 30% of the delegator fees paid to UMA.rocks will be redistributed to the committee and shared equally between all committee members. It is the equivalent of "builder codes" that Polymarket is also using to pay anyone who is bringing them traffic.
+There is also a financial incentive to create and run an efficient committee. For every delegator subscribing to a committee, 30% of the delegator fees paid to UMA.rocks will be redistributed to the committee and shared equally between all committee members.
 
 ## How to create a voting committee?
 

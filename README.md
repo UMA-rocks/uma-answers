@@ -34,6 +34,18 @@ To create your own voting committee:
 
 Happy voting!
 
+## Special cases
+
+### What happens if my committee fails to reach consensus and merge a PR before 11AM UTC?
+
+This is very bad because it means you won't be able to commit answers for your delegators and they will be slashed.
+
+Fortunately, to prevent anyone from being slashed, UMA.rocks will automatically unsubscribe all your delegators and subscribe them to other committees at random.
+
+**Therefore, a failure to reach consensus even once is fatal for your committee.** You will lose all your existing delegators and you will have to convince them to manually resubscribe to your committee again.
+
+We are enforcing this policy in the interest of our delegators, to incentivize committees to do their work properly, and promote a fair and healthy competition between committees. In the end, the most dedicated committees will see their UMA stake grow with time while the bad committees will die naturally. This is natural selection.
+
 
 
 

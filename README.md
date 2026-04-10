@@ -24,11 +24,15 @@ To create your own voting committee:
 
 1. Fork the `main` branch of this repository on your Github
 
-2. Edit the file `voting-committees.json` by adding your committee details to the list. You will need to choose a name for your committee and know the Github ID and Ethereum address for all members of your committee. Ethereum addresses will only be used to distribute the voting committee earnings at the beginning of each month. The `id` value should be a +1 increment of the previous committee id. In the same pull request, create the file `presentations/{your-voting-committee-id}.md` to present your committee members and explain why stakers should delegate to your committee. This will serve as a landing page for your committee.
+2. Edit the file `voting-committees.json` by adding your committee details to the list. You will need to choose a name for your committee and enter the Github ID and Ethereum address for all members of your committee. Ethereum addresses will be used to distribute the voting committee earnings at the beginning of each month. The `id` value should be a +1 increment of the biggest committee id in the file. Also, create a new file in the `landing-pages` folder called `{your-voting-committee-id}.md` to present your committee members and explain why stakers should delegate to your committee. This will serve as the official landing page for your committee.
 
-3. Create a pull request and wait for the approval of the UMA.rocks team.
+3. Create a pull request and wait for the approval of the UMA.rocks team. We will accept it as long as it follows the syntax from step 2.
 
-4. After your pull request is merged, all members from your voting committee will be invited to become contributor to this Github repository. All of you will need to accept this invite on Github.
+4. After your pull request is merged, all members from your voting committee will be invited to become contributors to this Github repository. All of you will need to accept this invite on Github.
+
+5. You will receive your first pull request once a delegator subscribes to your committee.
+
+Happy voting!
 
 
 

@@ -1,8 +1,8 @@
 # For all files that do not match any voting committee files
 * @lancelot-c
 
-# UMA.rocks main voting committee
-/voting-rounds/*/1.json @jessioc @okayway1 @scoutpol @cruzpoly @lancelot-c
+# UMA.rocks first voting committee
+/voting-rounds/*/1.json @UMA-rocks/voting-committee-1
 
 # Other voting committees
 # /voting-rounds/*/2.json @abc @def @ghi @jkl @mno

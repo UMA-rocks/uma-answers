@@ -1,5 +1,16 @@
-# Owner of the CODEOWNERS file in root directory
+# For all files that do not match any voting committee files
+* @lancelot-c
 
-# See https://docs.github.com/fr/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners#codeowners-and-branch-protection
+# UMA.rocks first voting committee
+/voting-rounds/*.json @jessioc @okayway1 @scoutpol @cruzpoly @lancelot-c
+# 1.md @jessioc @okayway1 @scoutpol @cruzpoly
+# @jessioc @okayway1 @scoutpol @cruzpoly
+# @UMA-rocks/voting-committee-1
 
-/.github/ @lancelot-c
+# Other voting committees
+# /voting-rounds/*/2.json @abc @def @ghi @jkl @mno
+# /voting-rounds/*/3.json @pqr @stw @xyz
+# /voting-rounds/*/4.json @foo @auto-approve-1 @auto-approve-2
+
+# General rule for voting committee X with N members
+# /voting-rounds/*/X.json @voting-committee-X-member-1 [...] @voting-committee-X-member-N

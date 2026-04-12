@@ -1,6 +1,6 @@
 # UMA.rocks voting committees
 
-UMA.rocks is using Github as an offline multisig for voting committees to reach consensus on dispute answers at every voting round.
+UMA.rocks is using Github as an offchain multisig for voting committees to reach consensus on dispute answers at every voting round.
 
 ## How does it work?
 
@@ -34,7 +34,7 @@ To create your own voting committee:
 
 Happy voting!
 
-## Special cases
+## Frequently asked questions
 
 ### What happens if my committee fails to reach consensus and merge a PR before 11AM UTC?
 
@@ -46,6 +46,14 @@ Fortunately, to prevent anyone from being slashed, UMA.rocks will automatically 
 
 We are enforcing this policy in the interest of our delegators, to incentivize committees to do their work properly, and promote a fair and healthy competition between committees. In the end, the most dedicated committees will see their UMA stake grow with time while the bad committees will die naturally. This is natural selection.
 
+### When a new delegator joins UMA.rocks, which committee is assigned to him/her by default?
 
+We automatically assign to new members the voting committee with the biggest total stake, which is usually the best performing committee.
 
+### Can I make changes to my voting committee once it is created?
 
+Yes. We allow changes to all properties of your committee in `voting-committees.json` except the `id` property, as long as a majority of your committee members approves the changes through a pull request.
+
+### Can one person be part of several voting committees?
+
+Yes, you can join as many voting committees as you want.

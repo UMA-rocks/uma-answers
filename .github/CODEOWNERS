@@ -3,15 +3,4 @@
 
 # UMA.rocks first voting committee
 /voting-rounds/*/1.json @UMA-rocks/voting-committee-1
-
-# 1.md @jessioc @okayway1 @scoutpol @cruzpoly
-# @jessioc @okayway1 @scoutpol @cruzpoly
-# @UMA-rocks/voting-committee-1
-
-# Other voting committees
-# /voting-rounds/*/2.json @abc @def @ghi @jkl @mno
-# /voting-rounds/*/3.json @pqr @stw @xyz
-# /voting-rounds/*/4.json @foo @auto-approve-1 @auto-approve-2
-
-# General rule for voting committee X with N members
-# /voting-rounds/*/X.json @voting-committee-X-member-1 [...] @voting-committee-X-member-N
+/landing-pages/1.md @UMA-rocks/voting-committee-1

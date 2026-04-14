@@ -2,5 +2,6 @@
 * @lancelot-c
 
 # UMA.rocks first voting committee
+/committees/1/metadata.json @UMA-rocks/voting-committee-1
+/committees/1/presentation.md @UMA-rocks/voting-committee-1
 /voting-rounds/*/1.json @UMA-rocks/voting-committee-1
-/landing-pages/1.md @UMA-rocks/voting-committee-1

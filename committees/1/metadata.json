@@ -1,6 +1,7 @@
 {
     "name": "UMA.rocks first voting committee",
     "icon": "https://www.uma.rocks/img/logo-zoomed.png",
+    "multisig": 3,
     "members": [
         {
             "github_id": "jessioc",

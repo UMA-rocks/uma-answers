@@ -1,6 +1,16 @@
 # UMA.rocks voting committees
 
-UMA.rocks is using Github as an offchain multisig for voting committees to reach consensus on dispute answers at every voting round.
+<p align="center">
+UMA.rocks enables anyone to delegate their Polymarket voting power to experienced voters searching for truth.
+  </p>
+
+  <p align="center">💸 Delegators get paid 23% APR · 💸 Voters get paid 30% of the UMA.rocks fee</p>
+  
+  <p align="center">🤖 Automated · 🔑 Non-custodial · 🚪 Permissionless exit</p>
+
+  <p align="center">
+<img width="704" height="384" alt="image" src="https://github.com/user-attachments/assets/b44c6405-5e11-4e21-9ee8-9afe54f35b9c" /></p>
+
 
 ## How does it work?
 

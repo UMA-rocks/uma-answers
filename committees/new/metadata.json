@@ -1,0 +1,19 @@
+{
+    "name": "Choose a name for your committee",
+    "icon": "Choose an icon URL for your committee, or remove this parameter to use the default committee icon",
+    "multisig": 1,
+    "members": [
+        {
+            "github_id": "your-github-username to commit your answers in pull requests and approve other members answers",
+            "ethereum_address": "your-ethereum-address to receive the committee earnings at the beginning of each month"
+        },
+        {
+            "github_id": "your-buddy-github-username",
+            "ethereum_address": "your-buddy-ethereum-address"
+        },
+        {
+            "github_id": "you can have from 1 to 11 members in the 'members' array",
+            "ethereum_address": "'multisig' is the minimum number of member approvals required to merge pull requests"
+        } 
+    ]
+}

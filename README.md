@@ -68,4 +68,4 @@ We are enforcing this policy in the interest of our delegators, to incentivize c
 While it is true that this Github repo is owned by UMA.rocks, there are a few things to keep in mind:
 - Making this whole voting committee logic permissionless with smart contracts would require an immense amount of work, time, audits, and money that we don't have. Therefore, this permissionned system is actually the best we can do for now.
 - We promise to accept anyone who is willing to join or create a committee.
-- We can't censor specific people from creating or joining committees because committee members are only required to give a Github username and an Ethereum address which can be both easily anonymized. So people are free to join with a fake username and we will have no way to make the link to their real identity.
+- We can't censor specific people from creating or joining committees because committee members are only required to give a Github username and an Ethereum address which can be both easily anonymized. People are free to join with a fake username and we won't be able to link it to their real identity.

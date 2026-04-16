@@ -6,7 +6,7 @@ UMA.rocks is using Github as an offchain multisig for voting committees to reach
 
 On creation, each voting committee chooses between 1 and 11 members and defines the minimum number of signers required to approve dispute answers.
 
-Then, at the beginning of each voting round, a pull request is automatically generated in each voting committee branch `voting-committee-{voting-committee-id}` containing the dispute details for the current round.
+Then, at the beginning of each voting round, a pull request is automatically created in each voting committee branch `voting-committee-{voting-committee-id}`. It contains all the dispute details for the current round. Committees only need to replace all occurences of `"answer": "P0"` with their desired answer.
 
 Committees have until 11AM UTC to choose their answers, get the minimum required number of approvals, and merge the pull request in the `main` branch.
 

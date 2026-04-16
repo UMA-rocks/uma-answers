@@ -4,7 +4,7 @@
 UMA.rocks enables anyone to delegate their Polymarket voting power to experienced voters searching for truth.
   </p>
 
-  <p align="center">💸 Delegators get paid 23% APR · 💸 Voters get paid 30% of the UMA.rocks fee</p>
+  <p align="center">💸 Delegators get paid 23% APR · 💸 Voters get paid 30% of the UMA.rocks fees</p>
   
   <p align="center">🤖 Automated · 🔑 Non-custodial · 🚪 Permissionless exit</p>
 

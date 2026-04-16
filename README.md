@@ -51,9 +51,9 @@ Yes, you can change both `metadata.json` and `presentation.md` for your committe
 
 ### When a new delegator joins UMA.rocks, which committee is assigned to him/her by default?
 
-We automatically assign to new members the voting committee with the biggest total stake, which is usually the best performing committee.
+We automatically assign to new delegators the voting committee with the biggest total stake, which is usually the best performing committee.
 
-### What happens if my committee fails to reach consensus and merge a PR before 11AM UTC?
+### What happens if my committee fails to reach consensus and doesn't merge the PR before 11AM UTC?
 
 This is very bad because it means you won't be able to commit answers for your delegators and they will be slashed.
 

@@ -37,10 +37,6 @@ Happy voting!
 
 ## Frequently asked questions
 
-### Can I make changes to my voting committee once it is created?
-
-Yes, you can change both `metadata.json` and `presentation.md` for your committee via a pull request from your voting committee branch to `main`, as long as your pull request gets the required number of approvals defined in the `multisig` property of your `metadata.json`.
-
 ### Who is eligible to be a committee member, are there any requirements?
 
 Everyone can be part of a committee, there are no requirements at all.
@@ -48,6 +44,10 @@ Everyone can be part of a committee, there are no requirements at all.
 ### Can one person be part of several voting committees?
 
 Yes, you can join as many voting committees as you want.
+
+### Can I make changes to my voting committee once it is created?
+
+Yes, you can change both `metadata.json` and `presentation.md` for your committee via a pull request from your voting committee branch to `main`, as long as your pull request gets the required number of approvals defined in the `multisig` property of your `metadata.json`.
 
 ### When a new delegator joins UMA.rocks, which committee is assigned to him/her by default?
 

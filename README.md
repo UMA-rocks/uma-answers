@@ -31,7 +31,7 @@ To create your own voting committee:
 
 4. After your pull request is merged, all members from your voting committee will be invited to the Github Team `Voting committee {your-committee-id}`. The invitation will be sent by Github to the email linked to your Github account. All of you need to accept this invite.
 
-5. You will receive your first pull request once a delegator subscribes to your committee from the UMA.rocks webapp.
+5. You will receive your first pull request once a delegator subscribes to your committee in the UMA.rocks webapp.
 
 Happy voting!
 

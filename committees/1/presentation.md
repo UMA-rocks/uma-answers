@@ -13,7 +13,7 @@
 
   <td align="center"><a href="https://github.com/scoutpol"><img width="117" height="117" alt="scout" src="https://github.com/user-attachments/assets/c9e7e16c-d7c4-4b80-abcf-e0d1d65c4f0d" />
 <br />scout</a>
-    <br /><br /><b>Known for:</b><br />Very active Polymarket & UMA community member
+    <br /><br /><b>Known for:</b><br />Active UMA community member
     <br /><br /><b>Discord:</b><br />@scout7438
   </td>
 

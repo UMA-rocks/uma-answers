@@ -1,7 +1,7 @@
 # UMA.rocks voting committees
 
 <p align="center">
-UMA.rocks enables anyone to delegate their Polymarket voting power to experienced voters.
+UMA.rocks is a credibly neutral infrastructure enabling UMA holders to delegate their Polymarket voting power to anyone.
   </p>
 
   <p align="center">💸 Delegators get paid 23% APR · 💸 Voters get paid 30% of the UMA.rocks fees</p>

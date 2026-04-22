@@ -2,7 +2,7 @@
 
 <table><tr>
   <td align="center"><a href="https://github.com/jessioc"><img alt="jessioc" src="https://cdn.discordapp.com/avatars/634236418310275072/f9a78a27cdb2a1fc8027a5b8f07cbc1f.webp?size=300" width="117" /><br />jessioc</a>
-    <br /><br /><b>Known for:</b><br />Member of the <a href="https://docs.uma.xyz/verification-guide/verification-system">UMA Verification Team</a>
+    <br /><br /><b>Known for:</b><br />Long-term UMA voter
     <br /><br /><b>Discord:</b><br />@jessicaonlychild
   </td>
 

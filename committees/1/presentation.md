@@ -23,9 +23,4 @@
     <br /><br /><b>Discord:</b><br />@exquisite_wolf_79651
   </td>
   
-  <td align="center"><a href="https://github.com/lancelot-c"><img alt="lancelot-c" src="https://avatars.githubusercontent.com/u/1041338?v=4" width="117" /><br />lancelot-c</a>
-    <br /><br /><b>Known for:</b><br />Founder of <a href="https://www.uma.rocks/">UMA.rocks</a>
-    <br /><br /><b>Discord:</b><br />@frigodor
-  </td>
-  
 </tr></table>

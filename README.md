@@ -6,7 +6,7 @@ UMA.rocks is a credibly neutral infrastructure enabling UMA holders to delegate 
 
   <p align="center">💸 Delegators get paid 23% APR · 💸 Voters get paid 30% of the UMA.rocks fees</p>
   
-  <p align="center">🤖 Automated · 🔑 Non-custodial · 🚪 Permissionless exit</p>
+  <p align="center">🔑 Non-custodial · 🚪 Permissionless exit · 🤖 Automated</p>
 
   <p align="center">
 <img width="704" height="384" alt="image" src="https://github.com/user-attachments/assets/b44c6405-5e11-4e21-9ee8-9afe54f35b9c" /></p>
@@ -28,7 +28,7 @@ One hour later (at 12PM UTC), the merged answers for each voting committee will 
 
 Having multiple independent voting committees contributes to the decentralisation of the UMA oracle by making it harder to corrupt.
 
-There is also a financial incentive to create and run an efficient committee. For every delegator subscribing to a committee, 30% of the delegator fees paid to UMA.rocks will be redistributed to the committee and shared equally between all committee members at the beginning of every month.
+There is also a financial incentive to create and run an efficient committee. UMA.rocks is distributing 30% of all its fees to voting committees, pro rata of the UMA stake that each committee is managing, and equally distributed between committee members.
 
 ## How to create a voting committee?
 

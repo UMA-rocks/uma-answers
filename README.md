@@ -20,7 +20,7 @@ On creation, each voting committee chooses between 1 and 11 members and defines 
 
 Then, at the beginning of each voting round, a pull request is automatically created in each voting committee branch `voting-committee-{voting-committee-id}`. It contains all the dispute details for the current round. Committees only need to replace all occurences of `"answer": "P0"` with their desired answer.
 
-Committees have until 11AM UTC to choose their answers, get the minimum required number of approvals, and merge the pull request in the `main` branch.
+Committees have until 1PM UTC to choose their answers, get the minimum required number of approvals, and merge the pull request in the `main` branch.
 
 One hour later (at 12PM UTC), the merged answers for each voting committee will be committed for all delegators who subscribed to that committee.
 
@@ -65,7 +65,7 @@ Yes, you can change both `metadata.json` and `presentation.md` for your committe
 
 We automatically assign to new delegators the voting committee with the biggest total stake, which is usually the best performing committee.
 
-### What happens if my committee fails to reach consensus and doesn't merge the PR before 11AM UTC?
+### What happens if my committee fails to reach consensus and doesn't merge the PR before 1PM UTC?
 
 This is very bad because it means you won't be able to commit answers for your delegators and they will be slashed.
 

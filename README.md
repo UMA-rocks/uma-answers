@@ -22,7 +22,7 @@ Then, at the beginning of each voting round, a pull request is automatically cre
 
 Committees have until 1PM UTC to choose their answers, get the minimum required number of approvals, and merge the pull request in the `main` branch.
 
-One hour later (at 12PM UTC), the merged answers for each voting committee will be committed for all delegators who subscribed to that committee.
+One hour later (at 2PM UTC), the merged answers for each voting committee will be committed for all delegators who subscribed to that committee.
 
 ## Why should UMA.rocks have multiple voting committees?
 

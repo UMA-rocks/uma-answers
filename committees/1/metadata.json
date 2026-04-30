@@ -1,7 +1,7 @@
 {
     "name": "UMA.rocks first voting committee",
     "icon": "https://www.uma.rocks/img/logo-zoomed.png",
-    "multisig": 3,
+    "multisig": 2,
     "members": [
         {
             "github_id": "jessioc",
@@ -9,11 +9,7 @@
         },
         {
             "github_id": "okayway1",
-            "ethereum_address": "0x"
-        },
-        {
-            "github_id": "scoutpol",
-            "ethereum_address": "0x6e202Bc17E6F17383b78ab683576615A8296b052"
+            "ethereum_address": "0x5Af91046Dc1C8eE6B9D7C376b15fd0B79BF3ebc2"
         },
         {
             "github_id": "cruzpoly",

@@ -4,7 +4,7 @@
 UMA.rocks is a credibly neutral infrastructure enabling UMA holders to delegate their voting power to anyone.
   </p>
 
-  <p align="center">💸 Delegators get paid 23% APR · 💸 Voters get paid 30% of the UMA.rocks fees</p>
+  <p align="center">💸 Delegators earn 23% APR · 💸 Voters earn 30% of UMA.rocks fees</p>
   
   <p align="center">🔑 Non-custodial · 🚪 Permissionless exit · 🤖 Automated</p>
 
